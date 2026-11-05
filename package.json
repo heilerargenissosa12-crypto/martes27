@@ -1,0 +1,10 @@
+{
+  "name": "gestion-clientes",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión de Clientes - Full Stack con Spring Boot y React",
+  "scripts": {
+    "start": "npm --prefix frontend start",
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  }
+}
